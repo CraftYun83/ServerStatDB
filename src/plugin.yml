@@ -1,0 +1,10 @@
+name: ServerStatDB
+version: 1.0
+author: CraftYun83
+main: com.craftyun83.serverstatdb.Main
+description: Store server data with easy usage!
+
+commands:
+  serverstatdb:
+    aliases: [ssdb]
+    description: Main command of ServerStatDB!
