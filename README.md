@@ -6,3 +6,9 @@ You are allowed to use any parts of this code for your own project. For more inf
 **Donating is (of course) very appreciated!**
 
 Paypal: https://paypal.me/CraftYun83
+
+-------------------------------------------------------
+
+**Official Spigot Page:**
+
+Spigot Page: https://www.spigotmc.org/resources/serverstatdb.86741/
