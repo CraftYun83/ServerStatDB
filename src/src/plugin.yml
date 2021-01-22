@@ -1,0 +1,9 @@
+name: StupidIdea
+version: 1.0
+author: CraftYun83
+main: com.craftyun83.getcoords.Main
+description: A pretty supid plugin
+
+commands:
+  getcoords:
+    aliases: [gc]
